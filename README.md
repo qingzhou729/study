@@ -1,2 +1,2 @@
 ## js基础
-- [q](www.baidu.com)
+- [执行上下文](https://github.com/yukiyang0729/blog/issues/4)
