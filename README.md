@@ -1,2 +1,2 @@
-# blog
-笔记
+## js基础
+- [q](www.baidu.com)
