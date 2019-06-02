@@ -1,6 +1,9 @@
 ### javaScript基础
 - [执行上下文](https://github.com/yukiyang0729/blog/issues/4)
 
+### Vue系列
+- [Vue响应式原理](https://github.com/yukiyang0729/blog/issues/12)
+
 ### Node.js系列
 - [自动化部署项目](https://github.com/yukiyang0729/blog/issues/5)
 
