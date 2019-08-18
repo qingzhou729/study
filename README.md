@@ -5,6 +5,7 @@
 - [Vue响应式原理-理解Observer、Dep、Watcher](https://github.com/yukiyang0729/blog/issues/12)
 - [Vue响应式原理-如何监听Array的变化？](https://github.com/yukiyang0729/blog/issues/13)
 - [Vue响应式原理-关于Array的特别处理](https://github.com/yukiyang0729/blog/issues/14)
+- [Vue异步更新-nextTick为什么要microtask优先？](https://github.com/yukiyang0729/blog/issues/15)
 
 ### Node.js系列
 - [自动化部署项目](https://github.com/yukiyang0729/blog/issues/5)
