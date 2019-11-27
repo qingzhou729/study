@@ -8,6 +8,7 @@
 - [Vue异步更新-nextTick为什么要microtask优先？](https://github.com/yukiyang0729/blog/issues/15)
 
 ### WebPack系列
+- [Webpack插件机制之Tapable-源码解析](https://github.com/yukiyang0729/blog/issues/16)
 
 ### Node.js系列
 - [自动化部署项目](https://github.com/yukiyang0729/blog/issues/5)
